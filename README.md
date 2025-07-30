@@ -1,6 +1,6 @@
 # Sumo Logic Assessment – Macaron Bundle Discount Problem
 
-This repository contains a solution to the **Macaron Bundle Discount Problem** using Python, asked in the **Sumo Logic coding assessment**.
+This repository contains a solution to the **Macaron Bundle Discount Problem** using Python, asked in the **Sumo Logic coding assessment** July 2025.
 
 ---
 
